@@ -1,0 +1,11 @@
+{
+  "name": "nordvpn-servers-list",
+  "version": "1.0.0",
+  "description": "Get list of all NordVPN active servers",
+  "main": "nordvpn-server-list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cezary Srednicki",
+  "license": "MIT"
+}
